@@ -1,4 +1,6 @@
-# 🏆 Danfoss Innovator Award 2026
+<div align="justify" style="font-family: 'Poppins', sans-serif; text-align: justify;">
+
+# Danfoss Innovator Award 2026
 
 Welcome to the official organization for our award-winning project: **Non-Invasive Condition Monitoring and Remaining Useful Life (RUL) Prediction of DC Link Capacitors using Hybrid Physics-ML Models.**
 
@@ -17,3 +19,5 @@ We developed a system that bridges physical degradation models with data-driven 
 * **[Sri Nawin Krishna]** - [LinkedIn](link) / [GitHub](https://github.com/nawin-cmd)
 * **[Lakshmipriya]** - [LinkedIn](link) / [GitHub](https://github.com/lakshmipriyangel)
 * **[Shwetha]** - [LinkedIn](link) / [GitHub](https://github.com/shwethasundaram05)
+
+</div>
