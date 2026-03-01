@@ -2,7 +2,7 @@
 
 # Danfoss Innovator Award 2026
 
-Welcome to the official organization for our award-winning project: **Non-Invasive Condition Monitoring and Remaining Useful Life (RUL) Prediction of DC Link Capacitors using Hybrid Physics-ML Models.**
+Welcome to the official organization for our award-winning project: **Non-Invasive Condition Monitoring and Remaining Useful Life (RUL) Prediction of DC Link Capacitors in Drives using Hybrid Physics-ML Models.**
 
 ## The Project Ecosystem
 To protect our core intellectual property, our raw ML and hardware code is kept in a private repository. However, you can explore our system architecture and live dashboard below:
