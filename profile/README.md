@@ -25,7 +25,7 @@
 To protect our core intellectual property, our raw ML and hardware code is kept in a private repository. However, you can explore our system architecture and live dashboard below:
 
 * **[Live Web Dashboard](https://capacitorhealthdashboard.vercel.app/)** — Real-time condition monitoring UI.
-* **[Dashboard Source Code](https://github.com/sathyajith04/capacitor_health_dashboard)** — The HTML/CSS/JS powering the frontend.
+* **[Dashboard Source Code](https://github.com/sathyajith04/capacitor-health-dashboard)** — The HTML/CSS/JS powering the frontend.
 * **[System Architecture & Showcase](https://github.com/Project-Crescendo/capacitor-monitoring-showcase)** — A deep dive into our methodology, combining ESP32 edge computing, MQTT, Simulink, and XGBoost.
 
 ---
